@@ -6,7 +6,9 @@
 
 ###
 
-<p align="center">🤝I introduce myself as a programmer passionate about mobile development, I also love UX/UI and web applications.<br>II have 3 years of experience in this beautiful, hard, and also frustrating world of programming.</p>
+<p align="center">🤝I'm Fullstack Developer with 3 years of experience building scalable web and mobile applications. I have a strong background in Node.js, Laravel, and React, and I'm currently pivoting my career towards Java Backend Development.  
+
+I'm passionate about clean code, UX/UI, and solving complex problems—even in those 'frustrating' moments that make programming so rewarding. 👨‍💻"</p>
 
 ###
 
